@@ -1,11 +1,18 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Time Series, FinTech, NLP and AutoMLs
+##### I'm Ozgur, data scientist with passion for Fintech, Anomaly Detection, web-based AI applications and automations. <br>
+##### Feel free to reach me for potential collaborations on data science projects/competitions and libraries
 
 ---
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ozguraslank)](https://www.linkedin.com/in/ozguraslank)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ozguraslank)](https://github.com/ozguraslank)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ozguraslank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://github.com/ozguraslank">
+    <img src="https://img.shields.io/badge/github-%23404040.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+</div>
 
 ---
 
